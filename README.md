@@ -1,10 +1,10 @@
-# SocietyHUB
+# SocietyConnect
 
 <img src="./Images/logo.PNG" alt="SocietyHUB Logo" width="150" height="150"> 
 
 ## Overview
 
-**SocietyHUB** is a web application designed to facilitate communication and information sharing among society members. Users can stay updated with notices, events, and regulations, as well as post complaints and access important information about their community.
+**SocietyConnect** is a web application designed to facilitate communication and information sharing among society members. Users can stay updated with notices, events, and regulations, as well as post complaints and access important information about their community.
 
 ## Features
 
